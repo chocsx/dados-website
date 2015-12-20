@@ -9,4 +9,4 @@ O website foi feito com:
 - [x] Bootstrap
 
 A parte de PHP ficou por conta de meu amigo (Mateus de Araujo)[https://github.com/chocsx] .
-Valeu Mateus, pela grande ajuda :smile:  :thumbsup:
+- Valeu Mateus, pela grande ajuda :smile:  :thumbsup:
