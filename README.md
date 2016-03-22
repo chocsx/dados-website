@@ -8,5 +8,5 @@ O website foi feito com:
 - [x] PHP
 - [x] Bootstrap
 
-A parte de PHP ficou por conta de meu amigo (Mateus de Araujo)[https://github.com/chocsx] .
+A parte de PHP ficou por conta de meu amigo [Mateus de Araujo](https://github.com/chocsx)
 - Valeu Mateus, pela grande ajuda :smile:  :thumbsup:
